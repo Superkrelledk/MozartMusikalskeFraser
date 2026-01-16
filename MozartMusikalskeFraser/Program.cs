@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 namespace MozartMusikalskeFraser;
 
 class Program
