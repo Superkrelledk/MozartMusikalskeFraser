@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+
+namespace MozartMusikalskeFraser;
+
+class Program
+
+{
+    static void Main()
+    {
+        Console.WriteLine("Welcome to Mozart Musikalske Fraser!");
+    }
+}
