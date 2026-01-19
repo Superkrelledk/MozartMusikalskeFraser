@@ -1,0 +1,15 @@
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\bin\Debug\net8.0\MozartMusikalskeFraser.exe
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\bin\Debug\net8.0\MozartMusikalskeFraser.deps.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\bin\Debug\net8.0\MozartMusikalskeFraser.runtimeconfig.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\bin\Debug\net8.0\MozartMusikalskeFraser.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\bin\Debug\net8.0\MozartMusikalskeFraser.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.AssemblyInfoInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.AssemblyInfo.cs
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.csproj.CoreCompileInputs.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.sourcelink.json
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\refint\MozartMusikalskeFraser.dll
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.pdb
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\MozartMusikalskeFraser.genruntimeconfig.cache
+C:\Users\u50716\Desktop\IntroOpgaverH1\MozartMusikalskeFraser\MozartMusikalskeFraser\obj\Debug\net8.0\ref\MozartMusikalskeFraser.dll

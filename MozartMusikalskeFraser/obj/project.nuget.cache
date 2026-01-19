@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YqOV+FovJRs=",
+  "dgSpecHash": "UV8Z1P/OfeQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\u50716\\Desktop\\IntroOpgaverH1\\MozartMusikalskeFraser\\MozartMusikalskeFraser\\MozartMusikalskeFraser.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\u50716\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.21\\microsoft.netcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\u50716\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.21\\microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\u50716\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.21\\microsoft.aspnetcore.app.ref.8.0.21.nupkg.sha512",
+    "C:\\Users\\u50716\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.21\\microsoft.netcore.app.host.win-x64.8.0.21.nupkg.sha512"
+  ],
   "logs": []
 }
