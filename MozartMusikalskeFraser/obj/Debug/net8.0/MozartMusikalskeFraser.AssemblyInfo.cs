@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MozartMusikalskeFraser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41e303535f997a9c94335e587d68c1c00f0afe67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+94a4fd6e0faf6f1f82679bfb0c45dd3c348227f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("MozartMusikalskeFraser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MozartMusikalskeFraser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
